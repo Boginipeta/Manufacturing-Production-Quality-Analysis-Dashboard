@@ -1,4 +1,6 @@
-MANUFACTURING_DASHBOARD.png
+## 🖥️ Dashboard Preview
+
+![Manufacturing Production, Quality and Cost Analysis Dashboard](MANUFACTURING_DASHBOARD.png)
 # Manufacturing Production, Quality & Cost Analysis Dashboard
 
 An interactive manufacturing analytics dashboard built to analyze production performance, product quality, machine efficiency, and operational costs.
@@ -17,10 +19,6 @@ The dashboard provides a consolidated view of key performance indicators (KPIs) 
 - Analyze machine downtime and maintenance requirements.
 - Compare manufacturing performance across different shifts.
 - Identify opportunities to improve production efficiency and reduce operational costs.
-
-## 🖥️ Dashboard Preview
-
-![Manufacturing Production, Quality and Cost Analysis Dashboard](MANUFACTURING_DASHBOARD.png)
 
 ## 📌 Key Performance Indicators (KPIs)
 
